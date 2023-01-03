@@ -1,0 +1,57 @@
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\bin\Debug\BUS.dll
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\bin\Debug\DAO.dll
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\bin\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\obj\Debug\BUS.dll
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\obj\Debug\BUS.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\BUS\bin\Debug\BUS.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\BUS\bin\Debug\BUS.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\BUS\bin\Debug\DAO.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\BUS\bin\Debug\DTO.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\BUS\bin\Debug\DAO.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\BUS\bin\Debug\DTO.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\BUS\obj\Debug\BUS.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\BUS\obj\Debug\BUS.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\BUS\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\Legion 5\Desktop\loginDoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\bin\Debug\BUS.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\bin\Debug\DAO.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\bin\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\obj\Debug\BUS.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\BUS\obj\Debug\BUS.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\bin\Debug\BUS.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\bin\Debug\BUS.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\bin\Debug\DAO.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\bin\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\bin\Debug\EntityFramework.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\bin\Debug\DAO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\bin\Debug\DAO.dll.config
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\bin\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\bin\Debug\EntityFramework.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\obj\Debug\BUS.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\BUS\obj\Debug\BUS.pdb

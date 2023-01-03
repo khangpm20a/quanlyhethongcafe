@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f410af9a3b97487fa70ac190d2402874" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="QLCFFModel.CT_HOADON" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCFFModel.DOANHTHU" Width="1.5" PointX="5.25" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCFFModel.HOADON" Width="1.5" PointX="0.875" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCFFModel.LOAISP" Width="1.5" PointX="3" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCFFModel.LUONGNV" Width="1.5" PointX="2.875" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCFFModel.NHACUNGCAP" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCFFModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCFFModel.NHAPKHO" Width="1.5" PointX="5" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCFFModel.PHANQUYEN" Width="1.5" PointX="8" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCFFModel.QUYEN" Width="1.5" PointX="5.75" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCFFModel.SANPHAM" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCFFModel.sysdiagram" Width="1.5" PointX="9.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLCFFModel.dbCTHD" Width="1.5" PointX="12" PointY="2.125" IsExpanded="true" />
+        <AssociationConnector Association="QLCFFModel.FK_DOANHTHU_1" ManuallyRouted="false" />
+        <AssociationConnector Association="QLCFFModel.FK_DOANHTHU_2" ManuallyRouted="false" />
+        <AssociationConnector ManuallyRouted="false" Association="QLCFFModel.FK_HOADON_2" />
+        <AssociationConnector Association="QLCFFModel.FK_SANPHAM_1" ManuallyRouted="false" />
+        <AssociationConnector ManuallyRouted="false" Association="QLCFFModel.FK_PHANQUYEN_QUYEN" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,641 @@
+C:\Users\Legion 5\source\repos\loginDoAn\loginDoAn\bin\Debug\loginDoAn.exe.config
+C:\Users\Legion 5\source\repos\loginDoAn\loginDoAn\bin\Debug\loginDoAn.exe
+C:\Users\Legion 5\source\repos\loginDoAn\loginDoAn\bin\Debug\loginDoAn.pdb
+C:\Users\Legion 5\source\repos\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.AssemblyReference.cache
+C:\Users\Legion 5\source\repos\loginDoAn\loginDoAn\obj\Debug\loginDoAn.Form1.resources
+C:\Users\Legion 5\source\repos\loginDoAn\loginDoAn\obj\Debug\loginDoAn.Properties.Resources.resources
+C:\Users\Legion 5\source\repos\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.GenerateResource.cache
+C:\Users\Legion 5\source\repos\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\source\repos\loginDoAn\loginDoAn\obj\Debug\loginDoAn.exe
+C:\Users\Legion 5\source\repos\loginDoAn\loginDoAn\obj\Debug\loginDoAn.pdb
+C:\Users\Legion 5\source\repos\loginDoAn\loginDoAn\obj\Debug\loginDoAn.Form2.resources
+C:\Users\Legion 5\source\repos\loginDoAn\loginDoAn\obj\Debug\loginDoAn.ThemNV.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\bin\Debug\loginDoAn.exe.config
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\bin\Debug\loginDoAn.exe
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\bin\Debug\loginDoAn.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.AssemblyReference.cache
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.Properties.Resources.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.GenerateResource.cache
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.CoreCompileInputs.cache
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.exe
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDanhNhap.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.QuenMK.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.PhanMem.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmTaiKhoan.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmBanHang.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDoanhThu.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmThongTin.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\loginDoAn.exe.config
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\loginDoAn.exe
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\loginDoAn.pdb
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmBanHang.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDanhNhap.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDoanhThu.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.PhanMem.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.QuenMK.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.Properties.Resources.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmTaiKhoan.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmThongTin.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.GenerateResource.cache
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.exe
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.pdb
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmTaiKhoann.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmLichSuban.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmChiTietHoaDon.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\BUS.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\BUS.pdb
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmTrangChu.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\bin\Debug\loginDoAn.exe.config
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\bin\Debug\loginDoAn.exe
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\bin\Debug\loginDoAn.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\bin\Debug\BUS.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\bin\Debug\DTO.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\bin\Debug\Guna.UI2.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\bin\Debug\BUS.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\bin\Debug\DTO.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.AssemblyReference.cache
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmBanHang.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmChiTietHoaDon.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDanhNhap.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDoanhThu.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmLichSuban.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.PhanMem.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.QuenMK.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.Properties.Resources.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmTaiKhoan.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmTaiKhoann.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmThongTin.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmTrangChu.resources
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.GenerateResource.cache
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.CoreCompileInputs.cache
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.CopyComplete
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.exe
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmNhapKho.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmNhapKho.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DAO.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\EntityFramework.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DAO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DAO.dll.config
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\EntityFramework.xml
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDanhSachNV.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDangKyTK.resources
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\loginDoAn.exe.config
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\loginDoAn.exe
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\loginDoAn.pdb
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\BUS.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DAO.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\BUS.pdb
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\EntityFramework.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DAO.pdb
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DAO.dll.config
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDangKyTK.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDanhSachNV.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmBanHang.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmChiTietHoaDon.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDanhNhap.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDoanhThu.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmNhapKho.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmLichSuban.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.PhanMem.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.QuenMK.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.Properties.Resources.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmTaiKhoann.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmThongTin.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmTrangChu.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.GenerateResource.cache
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.exe
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.pdb
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.BangHanggg.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.CodeParser.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Xpo.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraReports.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.XtraReport1.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.exe.licenses
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\loginDoAn.NewFolder1.frmInHD.resources
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\RdlCompile.cache
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\obj\Debug\RdlCompile.compiled
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\EnvDTE.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\stdole.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\loginDoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\loginDoAn.exe.config
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\loginDoAn.exe
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\loginDoAn.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\BUS.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DAO.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.CodeParser.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Xpo.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraReports.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\EnvDTE.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\stdole.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\BUS.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DAO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DAO.dll.config
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.BangHanggg.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDangKyTK.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDanhSachNV.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDanhNhap.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmDoanhThu.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.NewFolder1.frmInHD.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmNhapKho.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.PhanMem.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.Properties.Resources.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmTaiKhoann.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmThongTin.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.frmTrangChu.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.XtraReport1.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.GenerateResource.cache
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.exe.licenses
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\RdlCompile.cache
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\RdlCompile.compiled
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.exe
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.QLSanPham.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.NhaCungCap.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraScheduler.v22.1.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraScheduler.v22.1.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\de\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\es\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.inDoanhThu.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.inNhapKho.resources
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\loginDoAn\obj\Debug\loginDoAn.inSanPham.resources

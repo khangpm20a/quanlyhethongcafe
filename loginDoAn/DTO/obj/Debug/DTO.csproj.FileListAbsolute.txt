@@ -1,0 +1,31 @@
+C:\Users\Legion 5\Desktop\loginDoAn\DTO\bin\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\loginDoAn\DTO\bin\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\loginDoAn\DTO\obj\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\loginDoAn\DTO\obj\Debug\DTO.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DTO\bin\Debug\DTO.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DTO\bin\Debug\DTO.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DTO\obj\Debug\DTO.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DTO\obj\Debug\DTO.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DTO\bin\Debug\Guna.UI2.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\loginDoAn\DTO\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\loginDoAn\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DTO\bin\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DTO\bin\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DTO\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DTO\obj\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DTO\obj\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DTO\bin\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DTO\bin\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DTO\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DTO\obj\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DTO\obj\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache

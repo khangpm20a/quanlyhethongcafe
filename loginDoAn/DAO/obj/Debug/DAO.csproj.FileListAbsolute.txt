@@ -1,0 +1,55 @@
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\bin\Debug\DAO.dll
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\bin\Debug\DAO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\bin\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\bin\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\obj\Debug\DAO.dll
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\obj\Debug\DAO.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DAO\bin\Debug\DAO.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DAO\bin\Debug\DAO.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DAO\bin\Debug\DTO.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DAO\bin\Debug\DTO.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DAO\obj\Debug\DAO.dll
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DAO\obj\Debug\DAO.pdb
+D:\CDTH20E\Học kì 4\Quancaphe\wwinform\icon\loginDoAn\DAO\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\bin\Debug\DAO.dll.config
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\bin\Debug\EntityFramework.dll
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\bin\Debug\EntityFramework.xml
+C:\Users\Legion 5\Desktop\loginDoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\obj\Debug\DAO.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\obj\Debug\DAO.pdb
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\bin\Debug\DAO.dll.config
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\bin\Debug\DAO.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\bin\Debug\DAO.pdb
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\bin\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\bin\Debug\EntityFramework.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\bin\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\bin\Debug\EntityFramework.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Legion 5\Desktop\TRASUA\loginDoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\bin\Debug\DAO.dll.config
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\bin\Debug\DAO.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\bin\Debug\DAO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\bin\Debug\DTO.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\bin\Debug\EntityFramework.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\bin\Debug\Guna.UI2.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\bin\Debug\DTO.pdb
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\bin\Debug\EntityFramework.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\obj\Debug\DAO.dll
+C:\Users\Legion 5\Desktop\loginDoAn (2)\loginDoAn\DAO\obj\Debug\DAO.pdb
